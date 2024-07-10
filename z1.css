@@ -1,0 +1,36 @@
+.h1{
+    background-color: grey;
+    padding: 20px;
+}
+.h{
+    background-color: rgb(240, 233, 233);
+    margin: 20px;
+    padding: 10px;
+}
+.h2{
+    background-color: rgb(110, 102, 102);
+    padding: 10px;
+}
+body{
+    height:fit-content;
+    border: 2px solid black;
+    margin: 0px;
+}
+.a{
+    width:95%;
+    height: 30px;
+    margin: 10px;
+}
+.b{
+    width:95%;
+    height: 30px;
+    margin: 10px;
+}
+button{
+    width: 90%;
+    height: 30px;
+    margin: 10px;   
+    background-color: green; 
+    color: white;
+    position: relative;
+}
